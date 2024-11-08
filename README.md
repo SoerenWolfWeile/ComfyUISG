@@ -9,4 +9,4 @@ https://gitforwindows.org/
 
 This repo is public.
 
-If there are any problems, you can write me under the email weile.soeren@gmail.com
+If there are any problems, you can write me :)
