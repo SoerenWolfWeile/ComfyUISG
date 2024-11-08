@@ -7,6 +7,6 @@ Just start the ComfyUI_Setup.bat and after that the Model_Setup.bat
 Please ensure enough disk space (30GB) and that git is installed. If not, please install it from here:
 https://gitforwindows.org/
 
-This repo is private.
+This repo is public.
 
 If there are any problems, you can write me under the email weile.soeren@gmail.com
